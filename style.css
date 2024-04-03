@@ -1,0 +1,26 @@
+h2{
+    color: darkorange;
+}
+
+body{
+    background-color: #305050;
+    color: white;
+    text-align: center;
+    font-family: Times;
+}
+
+header{
+    border-bottom: 1px solid gray;
+}
+
+footer{
+    border-top: 1px solid gray;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
